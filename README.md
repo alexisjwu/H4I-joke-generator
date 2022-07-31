@@ -1,2 +1,4 @@
-# H4I-joke-generator
-Joke Generator Project (2022)
+# Joke Generator Project
+
+Last Updated by Alexis Wu (07/30/2022)
+
